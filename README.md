@@ -1,6 +1,6 @@
 # Algorithm Specialization - Offered by Stanford University 
 
-Python solutions to problem sets and programming assignments in the Stanford Algorithm Specialization on [Coursera](https://www.coursera.org/specializations/algorithms)
+Python solutions to problem sets and programming assignments in the [Stanford Algorithm Specialization](https://www.coursera.org/specializations/algorithms) on Coursera.
 
 **About this Specialization**
 
