@@ -1,6 +1,9 @@
 # Algorithm Specialization - Offered by Stanford University 
 
-Python solutions to problem sets and programming assignments in the [Stanford Algorithm Specialization](https://www.coursera.org/specializations/algorithms) on Coursera.
+Python solutions to problem sets and programming assignments in the [Stanford Algorithm Specialization](https://www.coursera.org/specializations/algorithms) on Coursera. 
+
+
+
 
 **About this Specialization**
 
@@ -19,5 +22,7 @@ Course 2: Graph Search, Shortest Paths, and Data Structures
 Course 3: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
 
 Course 4: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
+
+* To be uploaded
 
 
