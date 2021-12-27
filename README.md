@@ -10,8 +10,6 @@ Algorithms are the heart of computer science, and the subject has countless prac
 
 [Tim Roughgarden](https://www.coursera.org/instructor/~768) has been a professor in the Computer Science Department at Stanford University since 2004.  He has taught and published extensively on the subject of algorithms and their applications.
 
-[Algorithm Specialization](https://www.coursera.org/specializations/algorithms)
-
 
 ## Table of Content
 Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms
