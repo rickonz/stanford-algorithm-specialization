@@ -13,7 +13,7 @@ Algorithms are the heart of computer science, and the subject has countless prac
 [Algorithm Specialization](https://www.coursera.org/specializations/algorithms)
 
 
-# Table of Content
+## Table of Content
 Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms
 
 Course 2: Graph Search, Shortest Paths, and Data Structures
